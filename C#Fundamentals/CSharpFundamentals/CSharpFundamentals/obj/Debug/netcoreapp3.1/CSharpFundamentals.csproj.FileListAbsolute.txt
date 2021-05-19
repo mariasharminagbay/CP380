@@ -1,0 +1,13 @@
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.exe
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.deps.json
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.json
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\asus-msa2268\Documents\GitHub\CP380\C#Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache

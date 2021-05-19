@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\asus-msa2268\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\asus-msa2268\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
